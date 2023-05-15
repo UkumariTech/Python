@@ -3,6 +3,7 @@ Programación básica en Python
 Archivos en 'JUPYTER NOTEBOOK'
 
 Bryan Calderón
+Quito-Ecuador
 
 Instagram: https://www.instagram.com/ukumaritech/
 Facebook: https://www.facebook.com/UkumariTech/
